@@ -1,3 +1,18 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vikcarvalhos/vikcarvalhos/main/github-user-contribution.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vikcarvalhos/vikcarvalhos/main/github-user-contribution.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Vikcarvalhos/vikcarvalhos/main/github-user-contribution.svg"
+  />
+</picture>
+
 # <img width="50%" src="https://img.shields.io/badge/Bem--Vindo_ao_meu_GitHub!-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="ilustração do nome">
 ![](https://komarev.com/ghpvc/?username=vikcarvalhos&color=006bed)
 
