@@ -53,5 +53,5 @@
 
 |                                  | Projeto                                 |
 | ---------------------------------------- | --------------------------------------- |
-| ![Global Solution](https://i.imgur.com/B7Gd4wc.png)      | **Global Solution - PlusHealth (Desenvolvimento)**<br>Trata-se de um sistema de monitoramento de sinais vitais.<br>**Link**: https://vikcarvalhos.github.io/GS1-WebDev1ESPS/ |
+| ![Global Solution](https://i.imgur.com/B7Gd4wc.png)      | **Global Solution - PlusHealth (Desenvolvimento)**<br>Trata-se de um sistema de monitoramento de sinais vitais.<br>**Link**: https://vikcarvalhos.github.io/PlusHealth/ |
 | ![Challenge-HC](https://i.imgur.com/5auF9Pb.png)      | **Challenge - Hospital das Clínicas (Desenvolvimento)**<br>Um projeto relacionado ao auto-atendimento a fim de otimizar a experiência dos pacientes em hospitais.<br>**Link**: https://victorrodrigues16.github.io/Challenge-HC/ |
